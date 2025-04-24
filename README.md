@@ -42,3 +42,9 @@ Click Create & Deploy
 
 That’s it — your quiz app will be live! 🎯
 
+🛠 Technologies Used
+HTML5, CSS3, JavaScript (Vanilla)
+
+Docker
+
+IBM Cloud Code Engine
